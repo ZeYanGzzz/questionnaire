@@ -1,0 +1,8 @@
+spring:
+    datasource:
+        type: com.microsoft.sqlserver.jdbc.SQLServerDriver
+        druid:
+            driver-class-name: com.mysql.cj.jdbc.Driver
+            url: jdbc:sqlserver://120.46.207.30:1444;DatabaseName=RuJia-CoreHR
+            username: sa
+            password: 5tgb^YHN7ujm*IK<
